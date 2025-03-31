@@ -1,0 +1,37 @@
+.navbar a {
+	color: #9e844f !important;
+	text-decoration: none !important;
+}
+
+.tour-wrapper {
+	max-width: 1200px !important;
+	display: flex !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.logo {
+	width: 300px !important;
+}
+
+.btn-cta {
+	border: 1px solid #9e844f !important;
+	color: #9e844f !important;
+	margin-top: 25px !important;
+}
+
+.image-wrapper {
+	margin-top: 50px !important;
+}
+
+.footer {
+	color: #9e844f !important;
+	border-top: 1px solid #9e844f !important;
+	margin-top: 50px !important;
+}
+
+.footer p {
+	margin-bottom: 0 !important;
+}
+
+
